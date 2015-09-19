@@ -1,0 +1,55 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow addressText="" bufferWidth="-1" bufferHeight="-1" addressSpace="" />
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="IoT_RTOS_base" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Application" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Application;EWARM" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Application;User" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers;CMSIS" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers;STM32F4xx_HAL_Driver" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Source Files" name="unnamed" />
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" />
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="37" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Src/main.c" y="94" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Src/main.c" left="0" selected="0" name="unnamed" top="83" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="24" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM4F/port.c" y="281" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM4F/port.c" left="0" selected="0" name="unnamed" top="247" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Src/stm32f4xx_hal_msp.c" y="14" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Src/stm32f4xx_hal_msp.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c" y="24" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c" y="66" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c" left="0" selected="0" name="unnamed" top="48" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h" y="0" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h" left="0" selected="0" name="unnamed" top="168" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" y="9" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h" y="17" path="C:/Users/aziz/GoogleDrive/6-SoftwareWS/STM32CubeWS/IoT_RTOS_base/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h" left="0" selected="0" name="unnamed" top="0" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="IoT_RTOS_base" autoConnectTarget="ST-LINK/V2" debugSearchFileMap="" fileDialogInitialDirectory="" fileDialogDefaultFilter="*.c" autoConnectCapabilities="266111" debugSearchPath="" buildConfiguration="THUMB Debug" />
+</session>
